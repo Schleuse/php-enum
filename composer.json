@@ -1,5 +1,5 @@
 {
-    "name": "myclabs/php-enum",
+    "name": "schleuse/php-enum",
     "type": "library",
     "description": "PHP Enum implementation",
     "keywords": ["enum"],
@@ -15,6 +15,9 @@
         "psr-4": {
             "MyCLabs\\Enum\\": "src/"
         }
+    },
+    "replace": {
+        "myclabs/php-enum":"1.7.7"
     },
     "autoload-dev": {
         "psr-4": {
