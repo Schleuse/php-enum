@@ -1,3 +1,6 @@
+# Fork of [myclabs/php-enum](https://github.com/myclabs/php-enum)
+Backports some fixes for PHP 8.1 compability while also mantaining compability with at least PHP 7.1
+
 # PHP Enum implementation inspired from SplEnum
 
 [![Build Status](https://travis-ci.org/myclabs/php-enum.png?branch=master)](https://travis-ci.org/myclabs/php-enum)
